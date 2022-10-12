@@ -31,6 +31,6 @@ nnoremap <Leader>fb :action LocateBuildGradle.OpenLocalFile<CR>
 nnoremap <Leader>fB :action LocateBuildGradle.OpenRootFile<CR>
 ```
 
-## ChangeLog
+## Changelog
 
 See [CHANGELOG.md](./CHANGELOG.md)
